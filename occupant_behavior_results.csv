@@ -1,0 +1,12 @@
+Metric,Value
+Dataset,Vienna University Office Building (2013)
+Total Records,35040
+Time Period,2013-01-01 00:00:00 to 2013-12-31 23:45:00
+Peak Occupancy Hour,10
+Peak Energy Hour,10
+Occupancy-Energy Correlation,0.878
+Waste Percentage,0.03%
+Potential Savings (%),15-25%
+Best ML Model,Random Forest
+Model R² Score,0.870
+Comfort Level (%),28.2%
